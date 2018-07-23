@@ -16,7 +16,7 @@ function init() {
       "spycraft",
       "gun",
       "british",
-      "cliffhanger",
+      "henchman",
       "villain",
       "bullets",
       "detonate"
