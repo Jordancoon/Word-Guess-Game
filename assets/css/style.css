@@ -202,7 +202,7 @@
       #win .message .text, #lose .message .text {
         z-index: 100;
         padding: 1rem; }
-    #win #copper, #lose #copper {
+    #win #bond, #lose #bond {
       position: absolute;
       left: 150px;
       top: -255px;
