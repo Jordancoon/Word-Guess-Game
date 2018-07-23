@@ -14,7 +14,7 @@ function init() {
       "explosion",
       "intelligence",
       "spycraft",
-      "beretta",
+      "gun",
       "british",
       "cliffhanger",
       "villain",
