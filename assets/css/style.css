@@ -84,7 +84,7 @@
         animation: pulse 1.5s infinite; }
       #wrap #items #turns-ghost {
         z-index: 400;
-        color: #373d30; }
+        color: #4d4444; }
       #wrap #items #error {
         position: absolute;
         left: 342px;
@@ -116,7 +116,7 @@
             opacity: 0.9; }
       #wrap #items #guess-ghost {
         z-index: 900;
-        color: #373d30;
+        color: #4d4444;
         opacity: 0.6; }
         #wrap #items #guess-ghost table#word-ghost td {
           text-shadow: none; }
@@ -133,7 +133,7 @@
         letter-spacing: 0.1rem;
         z-index: 1500;
         transform: rotate(-7.3deg);
-        opacity: 0.5; }
+        opacity: 1; }
       #wrap #items #wins {
         position: absolute;
         left: 203px;
